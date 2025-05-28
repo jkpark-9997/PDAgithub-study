@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(void){
-    printf("my name is conflict");
+    
+    printf("hello github");
 
     return 0;
 }
